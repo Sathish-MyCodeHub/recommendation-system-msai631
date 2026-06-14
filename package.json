@@ -1,0 +1,24 @@
+{
+  "name": "recommendation-system-using-aihci-project",
+  "version": "1.0.0",
+  "description": "A hybrid AI-powered movie recommendation system built as part of MSAI-631 (Artificial Intelligence for Human-Computer Interaction).",
+  "main": "generate_report.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sathish-MyCodeHub/recommendation-system-msai631.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Sathish-MyCodeHub/recommendation-system-msai631/issues"
+  },
+  "homepage": "https://github.com/Sathish-MyCodeHub/recommendation-system-msai631#readme",
+  "dependencies": {
+    "docx": "^9.7.1"
+  }
+}
